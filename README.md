@@ -27,4 +27,6 @@ Instructions:
         used framesize as same as video
 	confidence is set to 90% and can be manually implemented.
 
-LINK FOR VIDEO :- https://drive.google.com/file/d/1Xpj9BICCmPqQraKq5JTTTkCx9F86K6uA/view?usp=sharing
+LINK FOR originial VIDEO :- https://drive.google.com/file/d/1Xpj9BICCmPqQraKq5JTTTkCx9F86K6uA/view?usp=sharing
+
+LINK FOR result VIDEO :- https://drive.google.com/file/d/1yqOYcx267H7z5WOGthlP6e8qcgmcMaW-/view?usp=sharing
