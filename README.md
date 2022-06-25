@@ -1,4 +1,5 @@
-# Computer-Vision-AI-Projects
+POSE ESTIMATION USING MEDIAPIPE FULL Documentation :- 
+
 Problem statement :
 	Write a robust algorithm to calculate successful rep count for knee bend exercise (Use mediapipe  pose model for this task)
 	Add a holding timer limit of 8 sec
